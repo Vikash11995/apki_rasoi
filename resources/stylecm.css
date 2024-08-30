@@ -74,10 +74,10 @@ color: #fff;
 padding: 20px 45px 20px 20px;
 }
 .info-p input::placeholder{
-color:black;
+color:white;
 }
 .info input::placeholder{
-    color:black;
+    color:white;
   
 }
 .info i{
